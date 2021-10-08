@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YYZD-JZ
 - 👀 I’m interested in technology and digital transformation
-- 🌱 I’m currently studying my masters in Information Science at UCL, 
+- 🌱 I’m currently studying my masters in Information Science at UCL
 - 💞️ I’m looking to collaborate on lots of projects related to cloud computing, blockchain and AI
 - 📫 Reach me on LinkedIn --> Ying Ying (Jenny) Zhou Dong
 
